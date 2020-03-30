@@ -14,6 +14,8 @@ All of these authors have given me permission to share these assets to make it e
 * [Tartarus](https://steamcommunity.com/sharedfiles/filedetails/?id=1296355722)
 * [The Lake](https://steamcommunity.com/sharedfiles/filedetails/?id=1292749452)
 * [The Volcano](https://steamcommunity.com/sharedfiles/filedetails/?id=715028562)
+* [Fjördur](https://steamcommunity.com/sharedfiles/filedetails/?id=1838617463)
+* [The Known World](https://steamcommunity.com/sharedfiles/filedetails/?id=1753359782)
 
 ## Installation / Usage
 
